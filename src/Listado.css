@@ -1,0 +1,15 @@
+.listadoDiv p{
+    background-color: #05f84e;
+    color: white;
+    text-decoration: dashed;
+    margin: 50px;
+    list-style: none;
+    font-size: 35px;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',monospace;
+
+}
+.listado{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    list-style: none;
+}
